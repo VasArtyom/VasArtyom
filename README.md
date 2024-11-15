@@ -21,5 +21,5 @@
 - **Deployment:** 
 - **Other:** 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasArtyom_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasArtyom&show_icons=true&theme=radical)
 
